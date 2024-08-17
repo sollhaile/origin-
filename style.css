@@ -1,0 +1,23 @@
+
+button{
+    background-color: rgb(200, 0, 0);
+    border-radius: 1px;
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    cursor: pointer;
+    font-display: bold;
+    border-radius: 2px;
+}
+.join{
+
+    background-color: white;
+    border-radius: 1px;
+    color: blue;
+    height: 30px;
+    width: 96px;
+    cursor: pointer;
+    font-display: bold;
+    border-radius: 2px;
+}
